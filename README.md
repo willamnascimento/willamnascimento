@@ -1,16 +1,22 @@
-### Hi there 👋
+### 👋 Hello everyone!
 
-<!--
-**willamnascimento/willamnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+- I’m working as **Software Engineer, FullStack Developer** and **SRE** .
+- Frontend - **Angular**.
+- Backend - **C#, Java**.
+- Design Pattern - **DDD, DTO, Clean Architecture, SOLID, Clean Code**.
+- Containers - **Docker, K8s**.
+- Cloud - **AWS, Azure, Digital Ocean**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Follow me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-siqueira-nascimento/)](https://www.linkedin.com/in/william-siqueira-nascimento/)
+
+
+
+<p align="justify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willamnascimento&show_icons=true&count_private=true&theme=algolia" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willamnascimento&layout=compact&theme=algolia" />
+</p>
